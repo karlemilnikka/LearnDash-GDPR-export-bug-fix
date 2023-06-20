@@ -32,4 +32,5 @@ There are a couple of other modifications to my version of the class. I fixed a 
 - 2023-06-01 I told LearnDash that I would have to publish information about the bug before the availability of an official patch if it wasn’t fixed within the 90-day responsible disclosure window.
 - 2023-06-13 I submitted my patched version to LearnDash. 
 - 2023-06-20 I published this report along with my patched version.
+- 2023-06-20 LearnDash’s CEO announced that an official patch will roll out the end of the month. 
 
